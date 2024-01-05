@@ -18,7 +18,7 @@ global.themeemoji = process.env.ThemeEmoji || "🎐"
 global.ownername = process.env.Owner_Name || "Ave~Kun" 
 global.ownernumber = process.env.Owner_Number || "27767494368" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
-global.timezone = process.env.TimeZone || "Asia/Kolkata" 
+global.timezone = process.env.TimeZone || "Africa/Johannesburg" 
 global.instagramId = process.env.Insta || "_madeby_ave" 
 global.email = process.env.Email_Id || "yomygod69@gmail.com" 
 
